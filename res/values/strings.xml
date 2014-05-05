@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HTC Gesture Listener</string>
+    <string name="action_settings">Settings</string>
+    <string name="explanation">This is required to lock your screen when a gesture is detected</string>
+	<string name="enable_device_admin">Enable device admin</string>
+	<string name="disable_device_admin">Disable device admin</string>
+    
+</resources>
